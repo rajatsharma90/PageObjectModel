@@ -6,14 +6,4 @@
       <class name="testCases.LauchPageTestCase"/>
     </classes>
   </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
-      <class name="testCases.LauchPageTestCase">
-        <methods>
-          <include name="shop"/>
-          <include name="BeforeClass"/>
-        </methods>
-      </class> <!-- testCases.LauchPageTestCase -->
-    </classes>
-  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

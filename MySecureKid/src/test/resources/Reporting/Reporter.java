@@ -18,7 +18,7 @@ public class Reporter {
 			
 			Extent.loadConfig(new File(System.getProperty("user.dir")+"\\ReportsConfig.xml"));
 			Extent.addSystemInfo("Selenium Version", "Selenium 3.12");
-			Extent.addSystemInfo("Environmrnt","Testing");
+			Extent.addSystemInfo("Environment","Testing");
 		}
 		
 

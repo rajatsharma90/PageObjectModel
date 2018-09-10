@@ -1,0 +1,6 @@
+2018-09-10 17:13:26,830 - LaunchPageTestCase -INFO - Browser Opened
+2018-09-10 17:13:26,885 - LaunchPageTestCase -INFO - Opening Mysecurekid.com
+2018-09-10 17:13:46,448 - LaunchPageTestCase -INFO - URL Opened
+2018-09-10 17:13:52,468 - LaunchPageTestCase -INFO - Clicked on shop
+2018-09-10 17:13:52,469 - LaunchPageTestCase -INFO - MSK 600W clicked
+2018-09-10 17:13:58,645 - LaunchPageTestCase -INFO - https://mysecurekid.com/product/msk-600w/should be the page's url

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30261" started-at="2018-09-06T12:14:26Z" finished-at="2018-09-06T12:14:56Z">
+  <suite name="Default suite" duration-ms="37500" started-at="2018-09-10T11:43:23Z" finished-at="2018-09-10T11:44:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30261" started-at="2018-09-06T12:14:26Z" finished-at="2018-09-06T12:14:56Z">
+    <test name="Default test" duration-ms="37500" started-at="2018-09-10T11:43:23Z" finished-at="2018-09-10T11:44:01Z">
       <class name="testCases.LauchPageTestCase">
-        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testCases.LauchPageTestCase@34c4973]" name="BeforeClass" is-config="true" duration-ms="21598" started-at="2018-09-06T17:44:26Z" finished-at="2018-09-06T17:44:48Z">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testCases.LauchPageTestCase@4abdb505]" name="BeforeClass" is-config="true" duration-ms="22647" started-at="2018-09-10T17:13:23Z" finished-at="2018-09-10T17:13:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- BeforeClass -->
-        <test-method status="PASS" signature="shop()[pri:1, instance:testCases.LauchPageTestCase@34c4973]" name="shop" duration-ms="5964" started-at="2018-09-06T17:44:48Z" finished-at="2018-09-06T17:44:54Z">
+        <test-method status="PASS" signature="shop()[pri:1, instance:testCases.LauchPageTestCase@4abdb505]" name="shop" duration-ms="12206" started-at="2018-09-10T17:13:46Z" finished-at="2018-09-10T17:13:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shop -->
-        <test-method status="PASS" signature="PageTitle()[pri:2, instance:testCases.LauchPageTestCase@34c4973]" name="PageTitle" duration-ms="1" started-at="2018-09-06T17:44:54Z" finished-at="2018-09-06T17:44:54Z">
+        <test-method status="PASS" signature="PageTitle()[pri:2, instance:testCases.LauchPageTestCase@4abdb505]" name="PageTitle" duration-ms="2" started-at="2018-09-10T17:13:58Z" finished-at="2018-09-10T17:13:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageTitle -->
-        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testCases.LauchPageTestCase@34c4973]" name="AfterClass" is-config="true" duration-ms="2684" started-at="2018-09-06T17:44:54Z" finished-at="2018-09-06T17:44:56Z">
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testCases.LauchPageTestCase@4abdb505]" name="AfterClass" is-config="true" duration-ms="2619" started-at="2018-09-10T17:13:58Z" finished-at="2018-09-10T17:14:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterClass -->
